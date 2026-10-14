@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "ORD-0001",
+    "medication": "Metformin",
+    "quantity": 39,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.86
+  },
+  {
+    "id": "ORD-0002",
+    "medication": "Amoxicillin",
+    "quantity": 30,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.77
+  },
+  {
+    "id": "ORD-0003",
+    "medication": "Sertraline",
+    "quantity": 43,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.92
+  },
+  {
+    "id": "ORD-0004",
+    "medication": "Losartan",
+    "quantity": 83,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.59
+  },
+  {
+    "id": "ORD-0005",
+    "medication": "Lisinopril",
+    "quantity": 57,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.88
+  },
+  {
+    "id": "ORD-0006",
+    "medication": "Amlodipine",
+    "quantity": 58,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.66
+  },
+  {
+    "id": "ORD-0007",
+    "medication": "Losartan",
+    "quantity": 61,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.94
+  },
+  {
+    "id": "ORD-0008",
+    "medication": "Amlodipine",
+    "quantity": 28,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.81
+  },
+  {
+    "id": "ORD-0009",
+    "medication": "Lisinopril",
+    "quantity": 75,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.85
+  },
+  {
+    "id": "ORD-0010",
+    "medication": "Sertraline",
+    "quantity": 69,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.68
+  },
+  {
+    "id": "ORD-0011",
+    "medication": "Losartan",
+    "quantity": 24,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "failed",
+    "routing_confidence": 0.82
+  },
+  {
+    "id": "ORD-0012",
+    "medication": "Atorvastatin",
+    "quantity": 90,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.72
+  },
+  {
+    "id": "ORD-0013",
+    "medication": "Amoxicillin",
+    "quantity": 86,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.72
+  },
+  {
+    "id": "ORD-0014",
+    "medication": "Atorvastatin",
+    "quantity": 20,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.97
+  },
+  {
+    "id": "ORD-0015",
+    "medication": "Metformin",
+    "quantity": 79,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.69
+  },
+  {
+    "id": "ORD-0016",
+    "medication": "Amoxicillin",
+    "quantity": 85,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.9
+  },
+  {
+    "id": "ORD-0017",
+    "medication": "Amlodipine",
+    "quantity": 37,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.61
+  },
+  {
+    "id": "ORD-0018",
+    "medication": "Levothyroxine",
+    "quantity": 55,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.79
+  },
+  {
+    "id": "ORD-0019",
+    "medication": "Levothyroxine",
+    "quantity": 33,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.89
+  },
+  {
+    "id": "ORD-0020",
+    "medication": "Amoxicillin",
+    "quantity": 21,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.97
+  },
+  {
+    "id": "ORD-0021",
+    "medication": "Levothyroxine",
+    "quantity": 43,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.93
+  },
+  {
+    "id": "ORD-0022",
+    "medication": "Metformin",
+    "quantity": 47,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.78
+  },
+  {
+    "id": "ORD-0023",
+    "medication": "Omeprazole",
+    "quantity": 30,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "pending",
+    "routing_confidence": 0.78
+  },
+  {
+    "id": "ORD-0024",
+    "medication": "Atorvastatin",
+    "quantity": 63,
+    "patient_risk": "high",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.84
+  },
+  {
+    "id": "ORD-0025",
+    "medication": "Gabapentin",
+    "quantity": 68,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.9
+  },
+  {
+    "id": "ORD-0026",
+    "medication": "Atorvastatin",
+    "quantity": 41,
+    "patient_risk": "medium",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.79
+  },
+  {
+    "id": "ORD-0027",
+    "medication": "Lisinopril",
+    "quantity": 43,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.75
+  },
+  {
+    "id": "ORD-0028",
+    "medication": "Gabapentin",
+    "quantity": 74,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.91
+  },
+  {
+    "id": "ORD-0029",
+    "medication": "Gabapentin",
+    "quantity": 30,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.99
+  },
+  {
+    "id": "ORD-0030",
+    "medication": "Lisinopril",
+    "quantity": 65,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "failed",
+    "routing_confidence": 0.45
+  },
+  {
+    "id": "ORD-0031",
+    "medication": "Atorvastatin",
+    "quantity": 55,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.93
+  },
+  {
+    "id": "ORD-0032",
+    "medication": "Lisinopril",
+    "quantity": 62,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.47
+  },
+  {
+    "id": "ORD-0033",
+    "medication": "Gabapentin",
+    "quantity": 30,
+    "patient_risk": "high",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.73
+  },
+  {
+    "id": "ORD-0034",
+    "medication": "Metformin",
+    "quantity": 38,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.76
+  },
+  {
+    "id": "ORD-0035",
+    "medication": "Levothyroxine",
+    "quantity": 78,
+    "patient_risk": "high",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.92
+  },
+  {
+    "id": "ORD-0036",
+    "medication": "Losartan",
+    "quantity": 50,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.97
+  },
+  {
+    "id": "ORD-0037",
+    "medication": "Omeprazole",
+    "quantity": 35,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.76
+  },
+  {
+    "id": "ORD-0038",
+    "medication": "Gabapentin",
+    "quantity": 62,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.65
+  },
+  {
+    "id": "ORD-0039",
+    "medication": "Amoxicillin",
+    "quantity": 48,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.8
+  },
+  {
+    "id": "ORD-0040",
+    "medication": "Lisinopril",
+    "quantity": 20,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.89
+  },
+  {
+    "id": "ORD-0041",
+    "medication": "Sertraline",
+    "quantity": 34,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.62
+  },
+  {
+    "id": "ORD-0042",
+    "medication": "Levothyroxine",
+    "quantity": 38,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.63
+  },
+  {
+    "id": "ORD-0043",
+    "medication": "Omeprazole",
+    "quantity": 81,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "pending",
+    "routing_confidence": 0.77
+  },
+  {
+    "id": "ORD-0044",
+    "medication": "Lisinopril",
+    "quantity": 70,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.67
+  },
+  {
+    "id": "ORD-0045",
+    "medication": "Gabapentin",
+    "quantity": 40,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.92
+  },
+  {
+    "id": "ORD-0046",
+    "medication": "Levothyroxine",
+    "quantity": 17,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.78
+  },
+  {
+    "id": "ORD-0047",
+    "medication": "Amoxicillin",
+    "quantity": 55,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.71
+  },
+  {
+    "id": "ORD-0048",
+    "medication": "Amlodipine",
+    "quantity": 38,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.65
+  },
+  {
+    "id": "ORD-0049",
+    "medication": "Sertraline",
+    "quantity": 78,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.69
+  },
+  {
+    "id": "ORD-0050",
+    "medication": "Amoxicillin",
+    "quantity": 43,
+    "patient_risk": "high",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.82
+  },
+  {
+    "id": "ORD-0051",
+    "medication": "Losartan",
+    "quantity": 38,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.76
+  },
+  {
+    "id": "ORD-0052",
+    "medication": "Gabapentin",
+    "quantity": 57,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.68
+  },
+  {
+    "id": "ORD-0053",
+    "medication": "Levothyroxine",
+    "quantity": 60,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.9
+  },
+  {
+    "id": "ORD-0054",
+    "medication": "Atorvastatin",
+    "quantity": 82,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.83
+  },
+  {
+    "id": "ORD-0055",
+    "medication": "Atorvastatin",
+    "quantity": 65,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.6
+  },
+  {
+    "id": "ORD-0056",
+    "medication": "Amlodipine",
+    "quantity": 69,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.62
+  },
+  {
+    "id": "ORD-0057",
+    "medication": "Losartan",
+    "quantity": 33,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.84
+  },
+  {
+    "id": "ORD-0058",
+    "medication": "Metformin",
+    "quantity": 20,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.8
+  },
+  {
+    "id": "ORD-0059",
+    "medication": "Gabapentin",
+    "quantity": 38,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.81
+  },
+  {
+    "id": "ORD-0060",
+    "medication": "Gabapentin",
+    "quantity": 42,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.86
+  },
+  {
+    "id": "ORD-0061",
+    "medication": "Omeprazole",
+    "quantity": 86,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.83
+  },
+  {
+    "id": "ORD-0062",
+    "medication": "Amoxicillin",
+    "quantity": 80,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.71
+  },
+  {
+    "id": "ORD-0063",
+    "medication": "Gabapentin",
+    "quantity": 71,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.82
+  },
+  {
+    "id": "ORD-0064",
+    "medication": "Atorvastatin",
+    "quantity": 41,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.68
+  },
+  {
+    "id": "ORD-0065",
+    "medication": "Sertraline",
+    "quantity": 64,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.77
+  },
+  {
+    "id": "ORD-0066",
+    "medication": "Atorvastatin",
+    "quantity": 30,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.88
+  },
+  {
+    "id": "ORD-0067",
+    "medication": "Amlodipine",
+    "quantity": 19,
+    "patient_risk": "high",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.66
+  },
+  {
+    "id": "ORD-0068",
+    "medication": "Lisinopril",
+    "quantity": 44,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.85
+  },
+  {
+    "id": "ORD-0069",
+    "medication": "Gabapentin",
+    "quantity": 61,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.9
+  },
+  {
+    "id": "ORD-0070",
+    "medication": "Atorvastatin",
+    "quantity": 39,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.73
+  },
+  {
+    "id": "ORD-0071",
+    "medication": "Amlodipine",
+    "quantity": 45,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.62
+  },
+  {
+    "id": "ORD-0072",
+    "medication": "Lisinopril",
+    "quantity": 52,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.77
+  },
+  {
+    "id": "ORD-0073",
+    "medication": "Omeprazole",
+    "quantity": 10,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.88
+  },
+  {
+    "id": "ORD-0074",
+    "medication": "Metformin",
+    "quantity": 44,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.72
+  },
+  {
+    "id": "ORD-0075",
+    "medication": "Lisinopril",
+    "quantity": 49,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.65
+  },
+  {
+    "id": "ORD-0076",
+    "medication": "Omeprazole",
+    "quantity": 44,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.7
+  },
+  {
+    "id": "ORD-0077",
+    "medication": "Lisinopril",
+    "quantity": 18,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.67
+  },
+  {
+    "id": "ORD-0078",
+    "medication": "Sertraline",
+    "quantity": 84,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.87
+  },
+  {
+    "id": "ORD-0079",
+    "medication": "Losartan",
+    "quantity": 34,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.75
+  },
+  {
+    "id": "ORD-0080",
+    "medication": "Levothyroxine",
+    "quantity": 59,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.8
+  },
+  {
+    "id": "ORD-0081",
+    "medication": "Amoxicillin",
+    "quantity": 28,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.89
+  },
+  {
+    "id": "ORD-0082",
+    "medication": "Omeprazole",
+    "quantity": 58,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.64
+  },
+  {
+    "id": "ORD-0083",
+    "medication": "Gabapentin",
+    "quantity": 39,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.89
+  },
+  {
+    "id": "ORD-0084",
+    "medication": "Amoxicillin",
+    "quantity": 51,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.8
+  },
+  {
+    "id": "ORD-0085",
+    "medication": "Sertraline",
+    "quantity": 40,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.94
+  },
+  {
+    "id": "ORD-0086",
+    "medication": "Atorvastatin",
+    "quantity": 66,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.87
+  },
+  {
+    "id": "ORD-0087",
+    "medication": "Amlodipine",
+    "quantity": 23,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.89
+  },
+  {
+    "id": "ORD-0088",
+    "medication": "Sertraline",
+    "quantity": 16,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.69
+  },
+  {
+    "id": "ORD-0089",
+    "medication": "Lisinopril",
+    "quantity": 90,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.93
+  },
+  {
+    "id": "ORD-0090",
+    "medication": "Losartan",
+    "quantity": 63,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.83
+  },
+  {
+    "id": "ORD-0091",
+    "medication": "Gabapentin",
+    "quantity": 53,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.63
+  },
+  {
+    "id": "ORD-0092",
+    "medication": "Omeprazole",
+    "quantity": 56,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.66
+  },
+  {
+    "id": "ORD-0093",
+    "medication": "Losartan",
+    "quantity": 23,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.86
+  },
+  {
+    "id": "ORD-0094",
+    "medication": "Amlodipine",
+    "quantity": 48,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.7
+  },
+  {
+    "id": "ORD-0095",
+    "medication": "Omeprazole",
+    "quantity": 63,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "pending",
+    "routing_confidence": 0.79
+  },
+  {
+    "id": "ORD-0096",
+    "medication": "Amlodipine",
+    "quantity": 40,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.79
+  },
+  {
+    "id": "ORD-0097",
+    "medication": "Amlodipine",
+    "quantity": 21,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.92
+  },
+  {
+    "id": "ORD-0098",
+    "medication": "Atorvastatin",
+    "quantity": 80,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "failed",
+    "routing_confidence": 0.94
+  },
+  {
+    "id": "ORD-0099",
+    "medication": "Lisinopril",
+    "quantity": 26,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.99
+  },
+  {
+    "id": "ORD-0100",
+    "medication": "Amoxicillin",
+    "quantity": 32,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.53
+  },
+  {
+    "id": "ORD-0101",
+    "medication": "Amlodipine",
+    "quantity": 74,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.73
+  },
+  {
+    "id": "ORD-0102",
+    "medication": "Amlodipine",
+    "quantity": 19,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.85
+  },
+  {
+    "id": "ORD-0103",
+    "medication": "Sertraline",
+    "quantity": 77,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.73
+  },
+  {
+    "id": "ORD-0104",
+    "medication": "Losartan",
+    "quantity": 42,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.57
+  },
+  {
+    "id": "ORD-0105",
+    "medication": "Sertraline",
+    "quantity": 81,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "pending",
+    "routing_confidence": 0.49
+  },
+  {
+    "id": "ORD-0106",
+    "medication": "Lisinopril",
+    "quantity": 71,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.92
+  },
+  {
+    "id": "ORD-0107",
+    "medication": "Sertraline",
+    "quantity": 88,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.7
+  },
+  {
+    "id": "ORD-0108",
+    "medication": "Losartan",
+    "quantity": 54,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.9
+  },
+  {
+    "id": "ORD-0109",
+    "medication": "Levothyroxine",
+    "quantity": 68,
+    "patient_risk": "high",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.66
+  },
+  {
+    "id": "ORD-0110",
+    "medication": "Sertraline",
+    "quantity": 16,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.96
+  },
+  {
+    "id": "ORD-0111",
+    "medication": "Sertraline",
+    "quantity": 72,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.82
+  },
+  {
+    "id": "ORD-0112",
+    "medication": "Atorvastatin",
+    "quantity": 10,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.49
+  },
+  {
+    "id": "ORD-0113",
+    "medication": "Levothyroxine",
+    "quantity": 15,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.66
+  },
+  {
+    "id": "ORD-0114",
+    "medication": "Levothyroxine",
+    "quantity": 12,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.73
+  },
+  {
+    "id": "ORD-0115",
+    "medication": "Levothyroxine",
+    "quantity": 85,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.85
+  },
+  {
+    "id": "ORD-0116",
+    "medication": "Omeprazole",
+    "quantity": 75,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.92
+  },
+  {
+    "id": "ORD-0117",
+    "medication": "Lisinopril",
+    "quantity": 87,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.94
+  },
+  {
+    "id": "ORD-0118",
+    "medication": "Sertraline",
+    "quantity": 89,
+    "patient_risk": "medium",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.8
+  },
+  {
+    "id": "ORD-0119",
+    "medication": "Losartan",
+    "quantity": 74,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.64
+  },
+  {
+    "id": "ORD-0120",
+    "medication": "Sertraline",
+    "quantity": 80,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.72
+  },
+  {
+    "id": "ORD-0121",
+    "medication": "Amoxicillin",
+    "quantity": 67,
+    "patient_risk": "medium",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.77
+  },
+  {
+    "id": "ORD-0122",
+    "medication": "Amlodipine",
+    "quantity": 77,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.88
+  },
+  {
+    "id": "ORD-0123",
+    "medication": "Losartan",
+    "quantity": 18,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.74
+  },
+  {
+    "id": "ORD-0124",
+    "medication": "Atorvastatin",
+    "quantity": 84,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.83
+  },
+  {
+    "id": "ORD-0125",
+    "medication": "Losartan",
+    "quantity": 26,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.81
+  },
+  {
+    "id": "ORD-0126",
+    "medication": "Losartan",
+    "quantity": 49,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.83
+  },
+  {
+    "id": "ORD-0127",
+    "medication": "Atorvastatin",
+    "quantity": 74,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.92
+  },
+  {
+    "id": "ORD-0128",
+    "medication": "Lisinopril",
+    "quantity": 33,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "pending",
+    "routing_confidence": 0.91
+  },
+  {
+    "id": "ORD-0129",
+    "medication": "Amlodipine",
+    "quantity": 88,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.71
+  },
+  {
+    "id": "ORD-0130",
+    "medication": "Losartan",
+    "quantity": 83,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.78
+  },
+  {
+    "id": "ORD-0131",
+    "medication": "Lisinopril",
+    "quantity": 42,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.63
+  },
+  {
+    "id": "ORD-0132",
+    "medication": "Atorvastatin",
+    "quantity": 30,
+    "patient_risk": "high",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.88
+  },
+  {
+    "id": "ORD-0133",
+    "medication": "Atorvastatin",
+    "quantity": 57,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.79
+  },
+  {
+    "id": "ORD-0134",
+    "medication": "Amlodipine",
+    "quantity": 27,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.96
+  },
+  {
+    "id": "ORD-0135",
+    "medication": "Gabapentin",
+    "quantity": 40,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.66
+  },
+  {
+    "id": "ORD-0136",
+    "medication": "Metformin",
+    "quantity": 28,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.98
+  },
+  {
+    "id": "ORD-0137",
+    "medication": "Omeprazole",
+    "quantity": 79,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.72
+  },
+  {
+    "id": "ORD-0138",
+    "medication": "Losartan",
+    "quantity": 40,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.98
+  },
+  {
+    "id": "ORD-0139",
+    "medication": "Lisinopril",
+    "quantity": 69,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.75
+  },
+  {
+    "id": "ORD-0140",
+    "medication": "Metformin",
+    "quantity": 15,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.97
+  },
+  {
+    "id": "ORD-0141",
+    "medication": "Amoxicillin",
+    "quantity": 52,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.73
+  },
+  {
+    "id": "ORD-0142",
+    "medication": "Amlodipine",
+    "quantity": 57,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.85
+  },
+  {
+    "id": "ORD-0143",
+    "medication": "Losartan",
+    "quantity": 23,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.47
+  },
+  {
+    "id": "ORD-0144",
+    "medication": "Losartan",
+    "quantity": 88,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.84
+  },
+  {
+    "id": "ORD-0145",
+    "medication": "Lisinopril",
+    "quantity": 13,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.74
+  },
+  {
+    "id": "ORD-0146",
+    "medication": "Sertraline",
+    "quantity": 14,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "pending",
+    "routing_confidence": 0.74
+  },
+  {
+    "id": "ORD-0147",
+    "medication": "Gabapentin",
+    "quantity": 41,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.83
+  },
+  {
+    "id": "ORD-0148",
+    "medication": "Amlodipine",
+    "quantity": 35,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.92
+  },
+  {
+    "id": "ORD-0149",
+    "medication": "Losartan",
+    "quantity": 54,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.71
+  },
+  {
+    "id": "ORD-0150",
+    "medication": "Losartan",
+    "quantity": 75,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.61
+  },
+  {
+    "id": "ORD-0151",
+    "medication": "Omeprazole",
+    "quantity": 26,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.77
+  },
+  {
+    "id": "ORD-0152",
+    "medication": "Atorvastatin",
+    "quantity": 26,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.72
+  },
+  {
+    "id": "ORD-0153",
+    "medication": "Lisinopril",
+    "quantity": 26,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.62
+  },
+  {
+    "id": "ORD-0154",
+    "medication": "Losartan",
+    "quantity": 76,
+    "patient_risk": "medium",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.8
+  },
+  {
+    "id": "ORD-0155",
+    "medication": "Omeprazole",
+    "quantity": 31,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.87
+  },
+  {
+    "id": "ORD-0156",
+    "medication": "Sertraline",
+    "quantity": 63,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.94
+  },
+  {
+    "id": "ORD-0157",
+    "medication": "Levothyroxine",
+    "quantity": 48,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.9
+  },
+  {
+    "id": "ORD-0158",
+    "medication": "Losartan",
+    "quantity": 54,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.92
+  },
+  {
+    "id": "ORD-0159",
+    "medication": "Atorvastatin",
+    "quantity": 16,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.85
+  },
+  {
+    "id": "ORD-0160",
+    "medication": "Amlodipine",
+    "quantity": 75,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.84
+  },
+  {
+    "id": "ORD-0161",
+    "medication": "Amoxicillin",
+    "quantity": 16,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.87
+  },
+  {
+    "id": "ORD-0162",
+    "medication": "Gabapentin",
+    "quantity": 56,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.91
+  },
+  {
+    "id": "ORD-0163",
+    "medication": "Omeprazole",
+    "quantity": 45,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.92
+  },
+  {
+    "id": "ORD-0164",
+    "medication": "Sertraline",
+    "quantity": 75,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.76
+  },
+  {
+    "id": "ORD-0165",
+    "medication": "Lisinopril",
+    "quantity": 51,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.94
+  },
+  {
+    "id": "ORD-0166",
+    "medication": "Amlodipine",
+    "quantity": 82,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.86
+  },
+  {
+    "id": "ORD-0167",
+    "medication": "Sertraline",
+    "quantity": 83,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.86
+  },
+  {
+    "id": "ORD-0168",
+    "medication": "Metformin",
+    "quantity": 14,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.87
+  },
+  {
+    "id": "ORD-0169",
+    "medication": "Sertraline",
+    "quantity": 70,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.89
+  },
+  {
+    "id": "ORD-0170",
+    "medication": "Losartan",
+    "quantity": 32,
+    "patient_risk": "medium",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.66
+  },
+  {
+    "id": "ORD-0171",
+    "medication": "Gabapentin",
+    "quantity": 81,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.87
+  },
+  {
+    "id": "ORD-0172",
+    "medication": "Omeprazole",
+    "quantity": 45,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.84
+  },
+  {
+    "id": "ORD-0173",
+    "medication": "Atorvastatin",
+    "quantity": 54,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.96
+  },
+  {
+    "id": "ORD-0174",
+    "medication": "Atorvastatin",
+    "quantity": 88,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.84
+  },
+  {
+    "id": "ORD-0175",
+    "medication": "Amlodipine",
+    "quantity": 22,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.91
+  },
+  {
+    "id": "ORD-0176",
+    "medication": "Gabapentin",
+    "quantity": 51,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.64
+  },
+  {
+    "id": "ORD-0177",
+    "medication": "Amoxicillin",
+    "quantity": 60,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.53
+  },
+  {
+    "id": "ORD-0178",
+    "medication": "Losartan",
+    "quantity": 46,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.84
+  },
+  {
+    "id": "ORD-0179",
+    "medication": "Losartan",
+    "quantity": 30,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.81
+  },
+  {
+    "id": "ORD-0180",
+    "medication": "Sertraline",
+    "quantity": 61,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "failed",
+    "routing_confidence": 0.69
+  },
+  {
+    "id": "ORD-0181",
+    "medication": "Gabapentin",
+    "quantity": 59,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.81
+  },
+  {
+    "id": "ORD-0182",
+    "medication": "Gabapentin",
+    "quantity": 30,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.96
+  },
+  {
+    "id": "ORD-0183",
+    "medication": "Lisinopril",
+    "quantity": 71,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.71
+  },
+  {
+    "id": "ORD-0184",
+    "medication": "Metformin",
+    "quantity": 41,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.79
+  },
+  {
+    "id": "ORD-0185",
+    "medication": "Metformin",
+    "quantity": 83,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.62
+  },
+  {
+    "id": "ORD-0186",
+    "medication": "Amlodipine",
+    "quantity": 17,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.83
+  },
+  {
+    "id": "ORD-0187",
+    "medication": "Amoxicillin",
+    "quantity": 37,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "pending",
+    "routing_confidence": 0.69
+  },
+  {
+    "id": "ORD-0188",
+    "medication": "Lisinopril",
+    "quantity": 63,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "pending",
+    "routing_confidence": 0.94
+  },
+  {
+    "id": "ORD-0189",
+    "medication": "Atorvastatin",
+    "quantity": 32,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.91
+  },
+  {
+    "id": "ORD-0190",
+    "medication": "Levothyroxine",
+    "quantity": 39,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.78
+  },
+  {
+    "id": "ORD-0191",
+    "medication": "Amoxicillin",
+    "quantity": 40,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.69
+  },
+  {
+    "id": "ORD-0192",
+    "medication": "Metformin",
+    "quantity": 79,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.73
+  },
+  {
+    "id": "ORD-0193",
+    "medication": "Sertraline",
+    "quantity": 51,
+    "patient_risk": "medium",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.64
+  },
+  {
+    "id": "ORD-0194",
+    "medication": "Lisinopril",
+    "quantity": 90,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.76
+  },
+  {
+    "id": "ORD-0195",
+    "medication": "Levothyroxine",
+    "quantity": 29,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.81
+  },
+  {
+    "id": "ORD-0196",
+    "medication": "Amoxicillin",
+    "quantity": 81,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.89
+  },
+  {
+    "id": "ORD-0197",
+    "medication": "Losartan",
+    "quantity": 21,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.93
+  },
+  {
+    "id": "ORD-0198",
+    "medication": "Sertraline",
+    "quantity": 81,
+    "patient_risk": "medium",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.95
+  },
+  {
+    "id": "ORD-0199",
+    "medication": "Metformin",
+    "quantity": 87,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.6
+  },
+  {
+    "id": "ORD-0200",
+    "medication": "Losartan",
+    "quantity": 75,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.69
+  },
+  {
+    "id": "ORD-0201",
+    "medication": "Amoxicillin",
+    "quantity": 82,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.92
+  },
+  {
+    "id": "ORD-0202",
+    "medication": "Metformin",
+    "quantity": 58,
+    "patient_risk": "medium",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.88
+  },
+  {
+    "id": "ORD-0203",
+    "medication": "Amlodipine",
+    "quantity": 68,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.78
+  },
+  {
+    "id": "ORD-0204",
+    "medication": "Amoxicillin",
+    "quantity": 77,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.78
+  },
+  {
+    "id": "ORD-0205",
+    "medication": "Metformin",
+    "quantity": 18,
+    "patient_risk": "high",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.85
+  },
+  {
+    "id": "ORD-0206",
+    "medication": "Amlodipine",
+    "quantity": 12,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.77
+  },
+  {
+    "id": "ORD-0207",
+    "medication": "Lisinopril",
+    "quantity": 23,
+    "patient_risk": "high",
+    "urgency": "routine",
+    "insurance_status": "failed",
+    "routing_confidence": 0.64
+  },
+  {
+    "id": "ORD-0208",
+    "medication": "Gabapentin",
+    "quantity": 20,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.85
+  },
+  {
+    "id": "ORD-0209",
+    "medication": "Levothyroxine",
+    "quantity": 52,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.9
+  },
+  {
+    "id": "ORD-0210",
+    "medication": "Amlodipine",
+    "quantity": 44,
+    "patient_risk": "medium",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.38
+  },
+  {
+    "id": "ORD-0211",
+    "medication": "Losartan",
+    "quantity": 12,
+    "patient_risk": "high",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.98
+  },
+  {
+    "id": "ORD-0212",
+    "medication": "Levothyroxine",
+    "quantity": 79,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.9
+  },
+  {
+    "id": "ORD-0213",
+    "medication": "Losartan",
+    "quantity": 87,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.86
+  },
+  {
+    "id": "ORD-0214",
+    "medication": "Levothyroxine",
+    "quantity": 33,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.7
+  },
+  {
+    "id": "ORD-0215",
+    "medication": "Lisinopril",
+    "quantity": 59,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.96
+  },
+  {
+    "id": "ORD-0216",
+    "medication": "Amlodipine",
+    "quantity": 81,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.91
+  },
+  {
+    "id": "ORD-0217",
+    "medication": "Gabapentin",
+    "quantity": 62,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.77
+  },
+  {
+    "id": "ORD-0218",
+    "medication": "Amlodipine",
+    "quantity": 28,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.88
+  },
+  {
+    "id": "ORD-0219",
+    "medication": "Amlodipine",
+    "quantity": 86,
+    "patient_risk": "high",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.88
+  },
+  {
+    "id": "ORD-0220",
+    "medication": "Amlodipine",
+    "quantity": 52,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "failed",
+    "routing_confidence": 0.83
+  },
+  {
+    "id": "ORD-0221",
+    "medication": "Lisinopril",
+    "quantity": 60,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.67
+  },
+  {
+    "id": "ORD-0222",
+    "medication": "Levothyroxine",
+    "quantity": 56,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.85
+  },
+  {
+    "id": "ORD-0223",
+    "medication": "Gabapentin",
+    "quantity": 18,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.74
+  },
+  {
+    "id": "ORD-0224",
+    "medication": "Levothyroxine",
+    "quantity": 19,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.76
+  },
+  {
+    "id": "ORD-0225",
+    "medication": "Losartan",
+    "quantity": 78,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.9
+  },
+  {
+    "id": "ORD-0226",
+    "medication": "Levothyroxine",
+    "quantity": 52,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.79
+  },
+  {
+    "id": "ORD-0227",
+    "medication": "Amlodipine",
+    "quantity": 57,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.77
+  },
+  {
+    "id": "ORD-0228",
+    "medication": "Atorvastatin",
+    "quantity": 24,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.92
+  },
+  {
+    "id": "ORD-0229",
+    "medication": "Amlodipine",
+    "quantity": 50,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.89
+  },
+  {
+    "id": "ORD-0230",
+    "medication": "Metformin",
+    "quantity": 76,
+    "patient_risk": "high",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.84
+  },
+  {
+    "id": "ORD-0231",
+    "medication": "Levothyroxine",
+    "quantity": 60,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.87
+  },
+  {
+    "id": "ORD-0232",
+    "medication": "Atorvastatin",
+    "quantity": 83,
+    "patient_risk": "high",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.73
+  },
+  {
+    "id": "ORD-0233",
+    "medication": "Sertraline",
+    "quantity": 60,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.73
+  },
+  {
+    "id": "ORD-0234",
+    "medication": "Atorvastatin",
+    "quantity": 27,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.91
+  },
+  {
+    "id": "ORD-0235",
+    "medication": "Levothyroxine",
+    "quantity": 33,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.67
+  },
+  {
+    "id": "ORD-0236",
+    "medication": "Amlodipine",
+    "quantity": 89,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.82
+  },
+  {
+    "id": "ORD-0237",
+    "medication": "Levothyroxine",
+    "quantity": 66,
+    "patient_risk": "high",
+    "urgency": "routine",
+    "insurance_status": "failed",
+    "routing_confidence": 0.72
+  },
+  {
+    "id": "ORD-0238",
+    "medication": "Amlodipine",
+    "quantity": 82,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.74
+  },
+  {
+    "id": "ORD-0239",
+    "medication": "Levothyroxine",
+    "quantity": 23,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.58
+  },
+  {
+    "id": "ORD-0240",
+    "medication": "Sertraline",
+    "quantity": 90,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.48
+  },
+  {
+    "id": "ORD-0241",
+    "medication": "Lisinopril",
+    "quantity": 51,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.84
+  },
+  {
+    "id": "ORD-0242",
+    "medication": "Amoxicillin",
+    "quantity": 45,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.68
+  },
+  {
+    "id": "ORD-0243",
+    "medication": "Amlodipine",
+    "quantity": 28,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.72
+  },
+  {
+    "id": "ORD-0244",
+    "medication": "Gabapentin",
+    "quantity": 57,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.94
+  },
+  {
+    "id": "ORD-0245",
+    "medication": "Levothyroxine",
+    "quantity": 37,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.69
+  },
+  {
+    "id": "ORD-0246",
+    "medication": "Amoxicillin",
+    "quantity": 15,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.53
+  },
+  {
+    "id": "ORD-0247",
+    "medication": "Metformin",
+    "quantity": 26,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 1.0
+  },
+  {
+    "id": "ORD-0248",
+    "medication": "Lisinopril",
+    "quantity": 16,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.9
+  },
+  {
+    "id": "ORD-0249",
+    "medication": "Lisinopril",
+    "quantity": 85,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 1.0
+  },
+  {
+    "id": "ORD-0250",
+    "medication": "Atorvastatin",
+    "quantity": 39,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.88
+  },
+  {
+    "id": "ORD-0251",
+    "medication": "Lisinopril",
+    "quantity": 18,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.94
+  },
+  {
+    "id": "ORD-0252",
+    "medication": "Amlodipine",
+    "quantity": 37,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.93
+  },
+  {
+    "id": "ORD-0253",
+    "medication": "Gabapentin",
+    "quantity": 20,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.85
+  },
+  {
+    "id": "ORD-0254",
+    "medication": "Metformin",
+    "quantity": 60,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.93
+  },
+  {
+    "id": "ORD-0255",
+    "medication": "Omeprazole",
+    "quantity": 11,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.8
+  },
+  {
+    "id": "ORD-0256",
+    "medication": "Atorvastatin",
+    "quantity": 12,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.73
+  },
+  {
+    "id": "ORD-0257",
+    "medication": "Levothyroxine",
+    "quantity": 20,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.61
+  },
+  {
+    "id": "ORD-0258",
+    "medication": "Atorvastatin",
+    "quantity": 49,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.76
+  },
+  {
+    "id": "ORD-0259",
+    "medication": "Gabapentin",
+    "quantity": 32,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "pending",
+    "routing_confidence": 0.71
+  },
+  {
+    "id": "ORD-0260",
+    "medication": "Gabapentin",
+    "quantity": 25,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.93
+  },
+  {
+    "id": "ORD-0261",
+    "medication": "Amlodipine",
+    "quantity": 75,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.63
+  },
+  {
+    "id": "ORD-0262",
+    "medication": "Metformin",
+    "quantity": 75,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.72
+  },
+  {
+    "id": "ORD-0263",
+    "medication": "Levothyroxine",
+    "quantity": 38,
+    "patient_risk": "high",
+    "urgency": "routine",
+    "insurance_status": "failed",
+    "routing_confidence": 0.45
+  },
+  {
+    "id": "ORD-0264",
+    "medication": "Lisinopril",
+    "quantity": 38,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.68
+  },
+  {
+    "id": "ORD-0265",
+    "medication": "Metformin",
+    "quantity": 47,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "pending",
+    "routing_confidence": 0.77
+  },
+  {
+    "id": "ORD-0266",
+    "medication": "Losartan",
+    "quantity": 11,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.84
+  },
+  {
+    "id": "ORD-0267",
+    "medication": "Amlodipine",
+    "quantity": 17,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.83
+  },
+  {
+    "id": "ORD-0268",
+    "medication": "Amlodipine",
+    "quantity": 20,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "pending",
+    "routing_confidence": 0.78
+  },
+  {
+    "id": "ORD-0269",
+    "medication": "Gabapentin",
+    "quantity": 43,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.75
+  },
+  {
+    "id": "ORD-0270",
+    "medication": "Lisinopril",
+    "quantity": 84,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.87
+  },
+  {
+    "id": "ORD-0271",
+    "medication": "Amlodipine",
+    "quantity": 43,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.54
+  },
+  {
+    "id": "ORD-0272",
+    "medication": "Lisinopril",
+    "quantity": 21,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.91
+  },
+  {
+    "id": "ORD-0273",
+    "medication": "Amlodipine",
+    "quantity": 81,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "pending",
+    "routing_confidence": 0.89
+  },
+  {
+    "id": "ORD-0274",
+    "medication": "Losartan",
+    "quantity": 90,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.95
+  },
+  {
+    "id": "ORD-0275",
+    "medication": "Lisinopril",
+    "quantity": 21,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.82
+  },
+  {
+    "id": "ORD-0276",
+    "medication": "Levothyroxine",
+    "quantity": 73,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "pending",
+    "routing_confidence": 0.76
+  },
+  {
+    "id": "ORD-0277",
+    "medication": "Amoxicillin",
+    "quantity": 88,
+    "patient_risk": "high",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.83
+  },
+  {
+    "id": "ORD-0278",
+    "medication": "Metformin",
+    "quantity": 77,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.88
+  },
+  {
+    "id": "ORD-0279",
+    "medication": "Losartan",
+    "quantity": 82,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "failed",
+    "routing_confidence": 0.79
+  },
+  {
+    "id": "ORD-0280",
+    "medication": "Lisinopril",
+    "quantity": 22,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.59
+  },
+  {
+    "id": "ORD-0281",
+    "medication": "Lisinopril",
+    "quantity": 32,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.53
+  },
+  {
+    "id": "ORD-0282",
+    "medication": "Lisinopril",
+    "quantity": 82,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.86
+  },
+  {
+    "id": "ORD-0283",
+    "medication": "Amlodipine",
+    "quantity": 10,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.77
+  },
+  {
+    "id": "ORD-0284",
+    "medication": "Lisinopril",
+    "quantity": 24,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.88
+  },
+  {
+    "id": "ORD-0285",
+    "medication": "Levothyroxine",
+    "quantity": 72,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.87
+  },
+  {
+    "id": "ORD-0286",
+    "medication": "Lisinopril",
+    "quantity": 58,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.94
+  },
+  {
+    "id": "ORD-0287",
+    "medication": "Sertraline",
+    "quantity": 14,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.92
+  },
+  {
+    "id": "ORD-0288",
+    "medication": "Atorvastatin",
+    "quantity": 40,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.82
+  },
+  {
+    "id": "ORD-0289",
+    "medication": "Amoxicillin",
+    "quantity": 43,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.77
+  },
+  {
+    "id": "ORD-0290",
+    "medication": "Lisinopril",
+    "quantity": 62,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.85
+  },
+  {
+    "id": "ORD-0291",
+    "medication": "Lisinopril",
+    "quantity": 67,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.73
+  },
+  {
+    "id": "ORD-0292",
+    "medication": "Atorvastatin",
+    "quantity": 53,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.6
+  },
+  {
+    "id": "ORD-0293",
+    "medication": "Omeprazole",
+    "quantity": 43,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "pending",
+    "routing_confidence": 0.84
+  },
+  {
+    "id": "ORD-0294",
+    "medication": "Sertraline",
+    "quantity": 71,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.94
+  },
+  {
+    "id": "ORD-0295",
+    "medication": "Amlodipine",
+    "quantity": 43,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.77
+  },
+  {
+    "id": "ORD-0296",
+    "medication": "Metformin",
+    "quantity": 44,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.86
+  },
+  {
+    "id": "ORD-0297",
+    "medication": "Metformin",
+    "quantity": 80,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.85
+  },
+  {
+    "id": "ORD-0298",
+    "medication": "Amoxicillin",
+    "quantity": 74,
+    "patient_risk": "high",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.79
+  },
+  {
+    "id": "ORD-0299",
+    "medication": "Lisinopril",
+    "quantity": 37,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.74
+  },
+  {
+    "id": "ORD-0300",
+    "medication": "Gabapentin",
+    "quantity": 50,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.73
+  },
+  {
+    "id": "ORD-0301",
+    "medication": "Amoxicillin",
+    "quantity": 89,
+    "patient_risk": "medium",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.86
+  },
+  {
+    "id": "ORD-0302",
+    "medication": "Gabapentin",
+    "quantity": 78,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.94
+  },
+  {
+    "id": "ORD-0303",
+    "medication": "Sertraline",
+    "quantity": 87,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.91
+  },
+  {
+    "id": "ORD-0304",
+    "medication": "Losartan",
+    "quantity": 12,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.84
+  },
+  {
+    "id": "ORD-0305",
+    "medication": "Losartan",
+    "quantity": 44,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.91
+  },
+  {
+    "id": "ORD-0306",
+    "medication": "Lisinopril",
+    "quantity": 18,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.84
+  },
+  {
+    "id": "ORD-0307",
+    "medication": "Metformin",
+    "quantity": 45,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.75
+  },
+  {
+    "id": "ORD-0308",
+    "medication": "Amlodipine",
+    "quantity": 85,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.83
+  },
+  {
+    "id": "ORD-0309",
+    "medication": "Metformin",
+    "quantity": 36,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.93
+  },
+  {
+    "id": "ORD-0310",
+    "medication": "Gabapentin",
+    "quantity": 45,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.93
+  },
+  {
+    "id": "ORD-0311",
+    "medication": "Losartan",
+    "quantity": 81,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.93
+  },
+  {
+    "id": "ORD-0312",
+    "medication": "Gabapentin",
+    "quantity": 48,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.59
+  },
+  {
+    "id": "ORD-0313",
+    "medication": "Lisinopril",
+    "quantity": 13,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "pending",
+    "routing_confidence": 0.89
+  },
+  {
+    "id": "ORD-0314",
+    "medication": "Metformin",
+    "quantity": 53,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.68
+  },
+  {
+    "id": "ORD-0315",
+    "medication": "Omeprazole",
+    "quantity": 33,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.88
+  },
+  {
+    "id": "ORD-0316",
+    "medication": "Metformin",
+    "quantity": 49,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.75
+  },
+  {
+    "id": "ORD-0317",
+    "medication": "Sertraline",
+    "quantity": 89,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.95
+  },
+  {
+    "id": "ORD-0318",
+    "medication": "Lisinopril",
+    "quantity": 35,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.95
+  },
+  {
+    "id": "ORD-0319",
+    "medication": "Losartan",
+    "quantity": 90,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.86
+  },
+  {
+    "id": "ORD-0320",
+    "medication": "Atorvastatin",
+    "quantity": 26,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.7
+  },
+  {
+    "id": "ORD-0321",
+    "medication": "Amoxicillin",
+    "quantity": 51,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.89
+  },
+  {
+    "id": "ORD-0322",
+    "medication": "Gabapentin",
+    "quantity": 31,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "failed",
+    "routing_confidence": 0.95
+  },
+  {
+    "id": "ORD-0323",
+    "medication": "Lisinopril",
+    "quantity": 53,
+    "patient_risk": "high",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.78
+  },
+  {
+    "id": "ORD-0324",
+    "medication": "Lisinopril",
+    "quantity": 37,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.99
+  },
+  {
+    "id": "ORD-0325",
+    "medication": "Amoxicillin",
+    "quantity": 23,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.81
+  },
+  {
+    "id": "ORD-0326",
+    "medication": "Amoxicillin",
+    "quantity": 48,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.79
+  },
+  {
+    "id": "ORD-0327",
+    "medication": "Atorvastatin",
+    "quantity": 73,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.79
+  },
+  {
+    "id": "ORD-0328",
+    "medication": "Amlodipine",
+    "quantity": 36,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.82
+  },
+  {
+    "id": "ORD-0329",
+    "medication": "Atorvastatin",
+    "quantity": 75,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "failed",
+    "routing_confidence": 0.65
+  },
+  {
+    "id": "ORD-0330",
+    "medication": "Lisinopril",
+    "quantity": 15,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.87
+  },
+  {
+    "id": "ORD-0331",
+    "medication": "Losartan",
+    "quantity": 55,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.87
+  },
+  {
+    "id": "ORD-0332",
+    "medication": "Amlodipine",
+    "quantity": 44,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.92
+  },
+  {
+    "id": "ORD-0333",
+    "medication": "Amlodipine",
+    "quantity": 82,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.9
+  },
+  {
+    "id": "ORD-0334",
+    "medication": "Lisinopril",
+    "quantity": 71,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.38
+  },
+  {
+    "id": "ORD-0335",
+    "medication": "Sertraline",
+    "quantity": 82,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "pending",
+    "routing_confidence": 0.65
+  },
+  {
+    "id": "ORD-0336",
+    "medication": "Amlodipine",
+    "quantity": 54,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.85
+  },
+  {
+    "id": "ORD-0337",
+    "medication": "Omeprazole",
+    "quantity": 70,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.99
+  },
+  {
+    "id": "ORD-0338",
+    "medication": "Levothyroxine",
+    "quantity": 61,
+    "patient_risk": "medium",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.94
+  },
+  {
+    "id": "ORD-0339",
+    "medication": "Amoxicillin",
+    "quantity": 23,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.77
+  },
+  {
+    "id": "ORD-0340",
+    "medication": "Omeprazole",
+    "quantity": 36,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.8
+  },
+  {
+    "id": "ORD-0341",
+    "medication": "Sertraline",
+    "quantity": 70,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.9
+  },
+  {
+    "id": "ORD-0342",
+    "medication": "Losartan",
+    "quantity": 23,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.61
+  },
+  {
+    "id": "ORD-0343",
+    "medication": "Metformin",
+    "quantity": 25,
+    "patient_risk": "high",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.95
+  },
+  {
+    "id": "ORD-0344",
+    "medication": "Sertraline",
+    "quantity": 25,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.86
+  },
+  {
+    "id": "ORD-0345",
+    "medication": "Levothyroxine",
+    "quantity": 84,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.7
+  },
+  {
+    "id": "ORD-0346",
+    "medication": "Sertraline",
+    "quantity": 87,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.93
+  },
+  {
+    "id": "ORD-0347",
+    "medication": "Gabapentin",
+    "quantity": 67,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.93
+  },
+  {
+    "id": "ORD-0348",
+    "medication": "Omeprazole",
+    "quantity": 90,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.78
+  },
+  {
+    "id": "ORD-0349",
+    "medication": "Losartan",
+    "quantity": 24,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.92
+  },
+  {
+    "id": "ORD-0350",
+    "medication": "Amoxicillin",
+    "quantity": 35,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.87
+  },
+  {
+    "id": "ORD-0351",
+    "medication": "Amlodipine",
+    "quantity": 23,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.7
+  },
+  {
+    "id": "ORD-0352",
+    "medication": "Gabapentin",
+    "quantity": 16,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.82
+  },
+  {
+    "id": "ORD-0353",
+    "medication": "Sertraline",
+    "quantity": 66,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.98
+  },
+  {
+    "id": "ORD-0354",
+    "medication": "Metformin",
+    "quantity": 47,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.81
+  },
+  {
+    "id": "ORD-0355",
+    "medication": "Gabapentin",
+    "quantity": 26,
+    "patient_risk": "medium",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.97
+  },
+  {
+    "id": "ORD-0356",
+    "medication": "Gabapentin",
+    "quantity": 72,
+    "patient_risk": "medium",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.79
+  },
+  {
+    "id": "ORD-0357",
+    "medication": "Lisinopril",
+    "quantity": 63,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.8
+  },
+  {
+    "id": "ORD-0358",
+    "medication": "Sertraline",
+    "quantity": 77,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.89
+  },
+  {
+    "id": "ORD-0359",
+    "medication": "Sertraline",
+    "quantity": 41,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.82
+  },
+  {
+    "id": "ORD-0360",
+    "medication": "Amlodipine",
+    "quantity": 72,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.85
+  },
+  {
+    "id": "ORD-0361",
+    "medication": "Omeprazole",
+    "quantity": 78,
+    "patient_risk": "high",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.91
+  },
+  {
+    "id": "ORD-0362",
+    "medication": "Omeprazole",
+    "quantity": 65,
+    "patient_risk": "high",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.87
+  },
+  {
+    "id": "ORD-0363",
+    "medication": "Sertraline",
+    "quantity": 39,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.64
+  },
+  {
+    "id": "ORD-0364",
+    "medication": "Gabapentin",
+    "quantity": 87,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.77
+  },
+  {
+    "id": "ORD-0365",
+    "medication": "Levothyroxine",
+    "quantity": 79,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.81
+  },
+  {
+    "id": "ORD-0366",
+    "medication": "Amoxicillin",
+    "quantity": 80,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.87
+  },
+  {
+    "id": "ORD-0367",
+    "medication": "Losartan",
+    "quantity": 37,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.93
+  },
+  {
+    "id": "ORD-0368",
+    "medication": "Sertraline",
+    "quantity": 16,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.87
+  },
+  {
+    "id": "ORD-0369",
+    "medication": "Sertraline",
+    "quantity": 72,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.95
+  },
+  {
+    "id": "ORD-0370",
+    "medication": "Losartan",
+    "quantity": 88,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.88
+  },
+  {
+    "id": "ORD-0371",
+    "medication": "Metformin",
+    "quantity": 65,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.94
+  },
+  {
+    "id": "ORD-0372",
+    "medication": "Atorvastatin",
+    "quantity": 32,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.66
+  },
+  {
+    "id": "ORD-0373",
+    "medication": "Omeprazole",
+    "quantity": 90,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.75
+  },
+  {
+    "id": "ORD-0374",
+    "medication": "Omeprazole",
+    "quantity": 70,
+    "patient_risk": "high",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.8
+  },
+  {
+    "id": "ORD-0375",
+    "medication": "Atorvastatin",
+    "quantity": 60,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.93
+  },
+  {
+    "id": "ORD-0376",
+    "medication": "Sertraline",
+    "quantity": 28,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.93
+  },
+  {
+    "id": "ORD-0377",
+    "medication": "Metformin",
+    "quantity": 76,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.84
+  },
+  {
+    "id": "ORD-0378",
+    "medication": "Omeprazole",
+    "quantity": 45,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.74
+  },
+  {
+    "id": "ORD-0379",
+    "medication": "Omeprazole",
+    "quantity": 42,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.77
+  },
+  {
+    "id": "ORD-0380",
+    "medication": "Omeprazole",
+    "quantity": 27,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.87
+  },
+  {
+    "id": "ORD-0381",
+    "medication": "Metformin",
+    "quantity": 63,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.67
+  },
+  {
+    "id": "ORD-0382",
+    "medication": "Lisinopril",
+    "quantity": 27,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.94
+  },
+  {
+    "id": "ORD-0383",
+    "medication": "Gabapentin",
+    "quantity": 20,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "pending",
+    "routing_confidence": 0.72
+  },
+  {
+    "id": "ORD-0384",
+    "medication": "Lisinopril",
+    "quantity": 89,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.89
+  },
+  {
+    "id": "ORD-0385",
+    "medication": "Atorvastatin",
+    "quantity": 12,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.88
+  },
+  {
+    "id": "ORD-0386",
+    "medication": "Amoxicillin",
+    "quantity": 78,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.73
+  },
+  {
+    "id": "ORD-0387",
+    "medication": "Levothyroxine",
+    "quantity": 76,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.56
+  },
+  {
+    "id": "ORD-0388",
+    "medication": "Sertraline",
+    "quantity": 22,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.71
+  },
+  {
+    "id": "ORD-0389",
+    "medication": "Amoxicillin",
+    "quantity": 10,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.66
+  },
+  {
+    "id": "ORD-0390",
+    "medication": "Sertraline",
+    "quantity": 42,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.87
+  },
+  {
+    "id": "ORD-0391",
+    "medication": "Omeprazole",
+    "quantity": 81,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.71
+  },
+  {
+    "id": "ORD-0392",
+    "medication": "Lisinopril",
+    "quantity": 22,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.88
+  },
+  {
+    "id": "ORD-0393",
+    "medication": "Amoxicillin",
+    "quantity": 21,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.93
+  },
+  {
+    "id": "ORD-0394",
+    "medication": "Levothyroxine",
+    "quantity": 88,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.7
+  },
+  {
+    "id": "ORD-0395",
+    "medication": "Omeprazole",
+    "quantity": 46,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "pending",
+    "routing_confidence": 0.85
+  },
+  {
+    "id": "ORD-0396",
+    "medication": "Lisinopril",
+    "quantity": 21,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.86
+  },
+  {
+    "id": "ORD-0397",
+    "medication": "Omeprazole",
+    "quantity": 84,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.94
+  },
+  {
+    "id": "ORD-0398",
+    "medication": "Levothyroxine",
+    "quantity": 74,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.7
+  },
+  {
+    "id": "ORD-0399",
+    "medication": "Sertraline",
+    "quantity": 42,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.65
+  },
+  {
+    "id": "ORD-0400",
+    "medication": "Sertraline",
+    "quantity": 13,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.86
+  },
+  {
+    "id": "ORD-0401",
+    "medication": "Losartan",
+    "quantity": 76,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.56
+  },
+  {
+    "id": "ORD-0402",
+    "medication": "Lisinopril",
+    "quantity": 70,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.84
+  },
+  {
+    "id": "ORD-0403",
+    "medication": "Metformin",
+    "quantity": 40,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.92
+  },
+  {
+    "id": "ORD-0404",
+    "medication": "Amlodipine",
+    "quantity": 88,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.94
+  },
+  {
+    "id": "ORD-0405",
+    "medication": "Sertraline",
+    "quantity": 45,
+    "patient_risk": "high",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.91
+  },
+  {
+    "id": "ORD-0406",
+    "medication": "Amlodipine",
+    "quantity": 79,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.94
+  },
+  {
+    "id": "ORD-0407",
+    "medication": "Losartan",
+    "quantity": 11,
+    "patient_risk": "high",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.95
+  },
+  {
+    "id": "ORD-0408",
+    "medication": "Metformin",
+    "quantity": 44,
+    "patient_risk": "high",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.86
+  },
+  {
+    "id": "ORD-0409",
+    "medication": "Gabapentin",
+    "quantity": 67,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.79
+  },
+  {
+    "id": "ORD-0410",
+    "medication": "Levothyroxine",
+    "quantity": 35,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.82
+  },
+  {
+    "id": "ORD-0411",
+    "medication": "Amlodipine",
+    "quantity": 48,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.72
+  },
+  {
+    "id": "ORD-0412",
+    "medication": "Atorvastatin",
+    "quantity": 67,
+    "patient_risk": "medium",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.83
+  },
+  {
+    "id": "ORD-0413",
+    "medication": "Sertraline",
+    "quantity": 35,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.88
+  },
+  {
+    "id": "ORD-0414",
+    "medication": "Amlodipine",
+    "quantity": 20,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.75
+  },
+  {
+    "id": "ORD-0415",
+    "medication": "Sertraline",
+    "quantity": 61,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.8
+  },
+  {
+    "id": "ORD-0416",
+    "medication": "Gabapentin",
+    "quantity": 66,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.85
+  },
+  {
+    "id": "ORD-0417",
+    "medication": "Atorvastatin",
+    "quantity": 36,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.88
+  },
+  {
+    "id": "ORD-0418",
+    "medication": "Atorvastatin",
+    "quantity": 23,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.84
+  },
+  {
+    "id": "ORD-0419",
+    "medication": "Lisinopril",
+    "quantity": 77,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.85
+  },
+  {
+    "id": "ORD-0420",
+    "medication": "Omeprazole",
+    "quantity": 32,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.85
+  },
+  {
+    "id": "ORD-0421",
+    "medication": "Amlodipine",
+    "quantity": 79,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.78
+  },
+  {
+    "id": "ORD-0422",
+    "medication": "Omeprazole",
+    "quantity": 11,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.92
+  },
+  {
+    "id": "ORD-0423",
+    "medication": "Omeprazole",
+    "quantity": 57,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.81
+  },
+  {
+    "id": "ORD-0424",
+    "medication": "Omeprazole",
+    "quantity": 88,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.95
+  },
+  {
+    "id": "ORD-0425",
+    "medication": "Sertraline",
+    "quantity": 67,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.91
+  },
+  {
+    "id": "ORD-0426",
+    "medication": "Gabapentin",
+    "quantity": 26,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "failed",
+    "routing_confidence": 0.81
+  },
+  {
+    "id": "ORD-0427",
+    "medication": "Losartan",
+    "quantity": 69,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.86
+  },
+  {
+    "id": "ORD-0428",
+    "medication": "Lisinopril",
+    "quantity": 34,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.77
+  },
+  {
+    "id": "ORD-0429",
+    "medication": "Metformin",
+    "quantity": 68,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "failed",
+    "routing_confidence": 0.87
+  },
+  {
+    "id": "ORD-0430",
+    "medication": "Omeprazole",
+    "quantity": 76,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.67
+  },
+  {
+    "id": "ORD-0431",
+    "medication": "Gabapentin",
+    "quantity": 84,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.69
+  },
+  {
+    "id": "ORD-0432",
+    "medication": "Atorvastatin",
+    "quantity": 41,
+    "patient_risk": "medium",
+    "urgency": "urgent",
+    "insurance_status": "pending",
+    "routing_confidence": 0.82
+  },
+  {
+    "id": "ORD-0433",
+    "medication": "Lisinopril",
+    "quantity": 72,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.55
+  },
+  {
+    "id": "ORD-0434",
+    "medication": "Losartan",
+    "quantity": 27,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.93
+  },
+  {
+    "id": "ORD-0435",
+    "medication": "Losartan",
+    "quantity": 69,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.78
+  },
+  {
+    "id": "ORD-0436",
+    "medication": "Losartan",
+    "quantity": 68,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.77
+  },
+  {
+    "id": "ORD-0437",
+    "medication": "Metformin",
+    "quantity": 51,
+    "patient_risk": "high",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.49
+  },
+  {
+    "id": "ORD-0438",
+    "medication": "Losartan",
+    "quantity": 62,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.78
+  },
+  {
+    "id": "ORD-0439",
+    "medication": "Amlodipine",
+    "quantity": 77,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "pending",
+    "routing_confidence": 0.77
+  },
+  {
+    "id": "ORD-0440",
+    "medication": "Losartan",
+    "quantity": 81,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.89
+  },
+  {
+    "id": "ORD-0441",
+    "medication": "Gabapentin",
+    "quantity": 19,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.65
+  },
+  {
+    "id": "ORD-0442",
+    "medication": "Lisinopril",
+    "quantity": 81,
+    "patient_risk": "medium",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.8
+  },
+  {
+    "id": "ORD-0443",
+    "medication": "Lisinopril",
+    "quantity": 33,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.7
+  },
+  {
+    "id": "ORD-0444",
+    "medication": "Losartan",
+    "quantity": 87,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.84
+  },
+  {
+    "id": "ORD-0445",
+    "medication": "Amoxicillin",
+    "quantity": 14,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.85
+  },
+  {
+    "id": "ORD-0446",
+    "medication": "Amoxicillin",
+    "quantity": 45,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.87
+  },
+  {
+    "id": "ORD-0447",
+    "medication": "Sertraline",
+    "quantity": 41,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.86
+  },
+  {
+    "id": "ORD-0448",
+    "medication": "Lisinopril",
+    "quantity": 72,
+    "patient_risk": "medium",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.81
+  },
+  {
+    "id": "ORD-0449",
+    "medication": "Atorvastatin",
+    "quantity": 17,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.71
+  },
+  {
+    "id": "ORD-0450",
+    "medication": "Levothyroxine",
+    "quantity": 16,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.67
+  },
+  {
+    "id": "ORD-0451",
+    "medication": "Levothyroxine",
+    "quantity": 67,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.96
+  },
+  {
+    "id": "ORD-0452",
+    "medication": "Amoxicillin",
+    "quantity": 80,
+    "patient_risk": "low",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.89
+  },
+  {
+    "id": "ORD-0453",
+    "medication": "Sertraline",
+    "quantity": 35,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.68
+  },
+  {
+    "id": "ORD-0454",
+    "medication": "Atorvastatin",
+    "quantity": 62,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.66
+  },
+  {
+    "id": "ORD-0455",
+    "medication": "Atorvastatin",
+    "quantity": 24,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.67
+  },
+  {
+    "id": "ORD-0456",
+    "medication": "Gabapentin",
+    "quantity": 67,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.9
+  },
+  {
+    "id": "ORD-0457",
+    "medication": "Lisinopril",
+    "quantity": 12,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.79
+  },
+  {
+    "id": "ORD-0458",
+    "medication": "Amlodipine",
+    "quantity": 11,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.55
+  },
+  {
+    "id": "ORD-0459",
+    "medication": "Amlodipine",
+    "quantity": 86,
+    "patient_risk": "high",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.58
+  },
+  {
+    "id": "ORD-0460",
+    "medication": "Lisinopril",
+    "quantity": 12,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.82
+  },
+  {
+    "id": "ORD-0461",
+    "medication": "Amoxicillin",
+    "quantity": 81,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.65
+  },
+  {
+    "id": "ORD-0462",
+    "medication": "Metformin",
+    "quantity": 63,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.7
+  },
+  {
+    "id": "ORD-0463",
+    "medication": "Omeprazole",
+    "quantity": 35,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.88
+  },
+  {
+    "id": "ORD-0464",
+    "medication": "Atorvastatin",
+    "quantity": 33,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.79
+  },
+  {
+    "id": "ORD-0465",
+    "medication": "Gabapentin",
+    "quantity": 29,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.89
+  },
+  {
+    "id": "ORD-0466",
+    "medication": "Metformin",
+    "quantity": 39,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.79
+  },
+  {
+    "id": "ORD-0467",
+    "medication": "Levothyroxine",
+    "quantity": 72,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.7
+  },
+  {
+    "id": "ORD-0468",
+    "medication": "Metformin",
+    "quantity": 18,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.87
+  },
+  {
+    "id": "ORD-0469",
+    "medication": "Levothyroxine",
+    "quantity": 50,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.71
+  },
+  {
+    "id": "ORD-0470",
+    "medication": "Metformin",
+    "quantity": 76,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.84
+  },
+  {
+    "id": "ORD-0471",
+    "medication": "Gabapentin",
+    "quantity": 46,
+    "patient_risk": "medium",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.93
+  },
+  {
+    "id": "ORD-0472",
+    "medication": "Omeprazole",
+    "quantity": 24,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "pending",
+    "routing_confidence": 0.62
+  },
+  {
+    "id": "ORD-0473",
+    "medication": "Metformin",
+    "quantity": 68,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.97
+  },
+  {
+    "id": "ORD-0474",
+    "medication": "Losartan",
+    "quantity": 20,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.91
+  },
+  {
+    "id": "ORD-0475",
+    "medication": "Lisinopril",
+    "quantity": 32,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.71
+  },
+  {
+    "id": "ORD-0476",
+    "medication": "Amoxicillin",
+    "quantity": 87,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.73
+  },
+  {
+    "id": "ORD-0477",
+    "medication": "Omeprazole",
+    "quantity": 45,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.74
+  },
+  {
+    "id": "ORD-0478",
+    "medication": "Sertraline",
+    "quantity": 87,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "pending",
+    "routing_confidence": 0.94
+  },
+  {
+    "id": "ORD-0479",
+    "medication": "Sertraline",
+    "quantity": 83,
+    "patient_risk": "medium",
+    "urgency": "urgent",
+    "insurance_status": "verified",
+    "routing_confidence": 0.67
+  },
+  {
+    "id": "ORD-0480",
+    "medication": "Levothyroxine",
+    "quantity": 80,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.81
+  },
+  {
+    "id": "ORD-0481",
+    "medication": "Metformin",
+    "quantity": 88,
+    "patient_risk": "high",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.89
+  },
+  {
+    "id": "ORD-0482",
+    "medication": "Gabapentin",
+    "quantity": 64,
+    "patient_risk": "high",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.7
+  },
+  {
+    "id": "ORD-0483",
+    "medication": "Amlodipine",
+    "quantity": 73,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.75
+  },
+  {
+    "id": "ORD-0484",
+    "medication": "Metformin",
+    "quantity": 88,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.75
+  },
+  {
+    "id": "ORD-0485",
+    "medication": "Atorvastatin",
+    "quantity": 49,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.91
+  },
+  {
+    "id": "ORD-0486",
+    "medication": "Lisinopril",
+    "quantity": 34,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.74
+  },
+  {
+    "id": "ORD-0487",
+    "medication": "Omeprazole",
+    "quantity": 52,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.86
+  },
+  {
+    "id": "ORD-0488",
+    "medication": "Amoxicillin",
+    "quantity": 36,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "pending",
+    "routing_confidence": 0.73
+  },
+  {
+    "id": "ORD-0489",
+    "medication": "Lisinopril",
+    "quantity": 83,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.73
+  },
+  {
+    "id": "ORD-0490",
+    "medication": "Atorvastatin",
+    "quantity": 73,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.66
+  },
+  {
+    "id": "ORD-0491",
+    "medication": "Metformin",
+    "quantity": 21,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.85
+  },
+  {
+    "id": "ORD-0492",
+    "medication": "Losartan",
+    "quantity": 28,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.61
+  },
+  {
+    "id": "ORD-0493",
+    "medication": "Sertraline",
+    "quantity": 21,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.73
+  },
+  {
+    "id": "ORD-0494",
+    "medication": "Gabapentin",
+    "quantity": 45,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.92
+  },
+  {
+    "id": "ORD-0495",
+    "medication": "Omeprazole",
+    "quantity": 50,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.9
+  },
+  {
+    "id": "ORD-0496",
+    "medication": "Levothyroxine",
+    "quantity": 32,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.78
+  },
+  {
+    "id": "ORD-0497",
+    "medication": "Omeprazole",
+    "quantity": 20,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.85
+  },
+  {
+    "id": "ORD-0498",
+    "medication": "Amlodipine",
+    "quantity": 70,
+    "patient_risk": "medium",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.86
+  },
+  {
+    "id": "ORD-0499",
+    "medication": "Amlodipine",
+    "quantity": 72,
+    "patient_risk": "low",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.7
+  },
+  {
+    "id": "ORD-0500",
+    "medication": "Lisinopril",
+    "quantity": 75,
+    "patient_risk": "high",
+    "urgency": "routine",
+    "insurance_status": "verified",
+    "routing_confidence": 0.66
+  }
+]
